@@ -10,4 +10,16 @@ In addition to the **employees of the related divisions**, interested **external
 
 ### Lectures and Talks
 
-A talk should have a minimum length of 20 minutes and a maximum length of 60 minutes. The remaining time is available for questions, comments and feedback. We plan a maximum of 60 minutes for each seminar. The topic of a talk should either come directly from or is relevant to Deep Learning, Machine Learning, Data Analysis or AI, no matter whether it is about a paper, an own project on or an interesting topic. The complexity can range from an overview talk to a special topic.
+A talk should have a minimum length of 20 minutes and a maximum length of 60 minutes. The remaining time is available for questions, comments and feedback. We plan a maximum of 60 minutes for each seminar.
+
+The topic of a talk should either come directly from or is relevant to Deep Learning, Machine Learning, Data Analysis or AI, no matter whether it is about a paper, an own project on or an interesting topic. The complexity can range from an overview talk to a special topic.
+
+---
+
+#### Contact
+
+In addition to our github page and the [website at ITWM](http://s.fhg.de/DL-seminar) with current information, we offer a mailing list as well: [subscribe here](https://listserv.itwm.fraunhofer.de/mailman/listinfo/deep-learning-seminar)
+
+You can also reach us directly by contacting [Dr. Dominik Straßel](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/dominik-strassel.html).
+
+---
