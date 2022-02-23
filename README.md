@@ -23,3 +23,34 @@ In addition to our github page and the [website at ITWM](http://s.fhg.de/DL-semi
 You can also reach us directly by contacting [Dr. Dominik Straßel](https://www.itwm.fraunhofer.de/en/departments/hpc/staff/dominik-strassel.html).
 
 ---
+
+#### Dates 2021
+
+The seminar takes place regularly on Thursdays at 10 am via MS Teams. Titles and other dates will be added in the course of the year.
+
+Note that the talks of our employees of the division are marked with (_Fraunhofer ITWM_). These dates can be postponed without any problems if there is interest in a lecture on this date.
+
+| **Date of Talk** | **Speaker**      | **Organization** | **Contact**      | **Title**        | **Abstract**     | **Comment**         |
+|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-------------------:|
+| 17.03.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 24.03.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 31.03.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 07.04.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 14.04.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 21.04.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 28.04.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 05.05.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 12.05.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 19.05.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| _26.05.2022_     | _NO SEMINAR_     | -/-              | -/-              | -/-              | -/-              | Ascension of Christ |
+| 02.06.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 09.06.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 16.06.2022       | _NO SEMINAR_     | -/-              | -/-              | -/-              | -/-              | Corpus Christi      |
+| 23.06.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 30.06.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 07.07.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 14.07.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| 21.07.2022       | t.b.a.           |                  |                  |                  |                  |                     |
+| **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK**    |
+
+---
