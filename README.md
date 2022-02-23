@@ -54,3 +54,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK**    |
 
 ---
+
+<img src="images/logo-itwm.png" height="50">  
+
+<img src="images/logo-lssi.png" height="75">
