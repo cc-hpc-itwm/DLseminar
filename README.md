@@ -32,9 +32,6 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 
 | **Date of Talk** | **Speaker**           | **Organization** | **Contact**      | **Title**        | **Abstract**     | **Comment**         |
 |:----------------:|:---------------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-------------------:|
-| 17/03/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 24/03/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 31/03/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 07/04/2022       | Mario Ruben Fernandez | Fraunhofer ITWM  |                  | _t.b.a._         |                  |                     |
 | 14/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 21/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
