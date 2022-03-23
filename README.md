@@ -41,7 +41,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 19/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | _26/05/2022_     | _NO SEMINAR_          | -/-              | -/-              | -/-              | -/-              | Ascension of Christ |
 | 02/06/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 09/06/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| 09/06/2022       | Paula Harder          | Fraunhofer ITWM  |paula.harder@itwm.fraunhofer.de|Physics Informed Learning of Aerosols                  |                  |                     |
 | 16/06/2022       | _NO SEMINAR_          | -/-              | -/-              | -/-              | -/-              | Corpus Christi      |
 | 23/06/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 30/06/2022       | t.b.a.                |                  |                  |                  |                  |                     |
