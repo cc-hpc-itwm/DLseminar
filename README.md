@@ -35,7 +35,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 07/04/2022       | Mario Ruben Fernandez | CC-HPC @Fraunhofer ITWM | [send mail](mario.ruben.fernandez@itwm.fraunhofer.de) | _t.b.a._         |                  |                     |
 | 14/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 21/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 28/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| 28/04/2022       | Julia Grabinski       | CC-HPC @Fraunhofer ITWM |[send mail](julia.grabinski@uni-siegen.de) |_t.b.a._  |                  |                     |
 | 05/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 12/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 19/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
