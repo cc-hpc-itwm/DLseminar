@@ -43,7 +43,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 02/06/2022       | Paul Gavrikov         | IMLA @Offenburg University | [send mail](paul.gavrikov@hs-offenburg.de) | _t.b.a._ | | |
 | 09/06/2022       | Paula Harder          | CC-HPC @Fraunhofer ITWM  | [send mail](paula.harder@itwm.fraunhofer.de) | _Physics Informed Learning of Aerosols_ | | |
 | 16/06/2022       | _NO SEMINAR_          | -/-              | -/-              | -/-              | -/-              | Corpus Christi      |
-| 23/06/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| 23/06/2022       | Peter Lorenz          | CC-HPC @Fraunhofer ITWM | [send mail](peter.lorenz@itwm.fraunhofer.de) | Is AutoAttack/AutoBench a suitable Benchmark for Adversarial Robustness? |                  |                     |
 | 30/06/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 07/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 14/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
