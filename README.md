@@ -32,12 +32,9 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 
 | **Date of Talk** | **Speaker**           | **Organization** | **Contact**      | **Title**        | **Abstract**     | **Comment**         |
 |:----------------:|:---------------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-------------------:|
-| 07/04/2022       | Mario Ruben Fernandez | CC-HPC @Fraunhofer ITWM | [send mail](mario.ruben.fernandez@itwm.fraunhofer.de) | _t.b.a._         |                  |                     |
-| 14/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 21/04/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 28/04/2022       | Julia Grabinski       | CC-HPC @Fraunhofer ITWM |[send mail](julia.grabinski@uni-siegen.de) |_t.b.a._  |                  |                     |
 | 05/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 12/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| 12/05/2022       | Mario Ruben Fernandez |  CC-HPC @Fraunhofer ITWM  |  [send mail](mario.ruben.fernandez@itwm.fraunhofer.de)  |                  |                  |                     |
 | 19/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | _26/05/2022_     | _NO SEMINAR_          | -/-              | -/-              | -/-              | -/-              | Ascension of Christ |
 | 02/06/2022       | Paul Gavrikov         | IMLA @Offenburg University | [send mail](paul.gavrikov@hs-offenburg.de) | _t.b.a._ | | |
