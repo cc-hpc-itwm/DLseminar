@@ -46,7 +46,12 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 14/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | 21/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
 | **SUMMER BREAK** | **SUMMER BREAK**      | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK**    |
-
+| 06/10/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| 13/10/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| 20/10/2022       | t.b.a.                |                  |                  |                  |                  |                     |
+| Fall 22          | t.b.a.                |                  |                  |                  |                  |                     |
+| Fall 22          | t.b.a.                |                  |                  |                  |                  |                     |
+| Fall 22          | t.b.a.                |                  |                  |                  |                  |                     |
 ---
 
 <a href="https://www.itwm.fraunhofer.de/"><img src="images/logo-itwm.png" height="50"></a>&emsp;<a href="https://www.leistungszentrum-simulation-software.de/"><img src="images/logo-lssi.png" height="75"></a>
