@@ -42,7 +42,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 16/06/2022 | _NO SEMINAR_ | -/- | -/- | -/- | -/- | Corpus Christi |
 | 23/06/2022 | Peter Lorenz | CC-HPC @Fraunhofer ITWM | [send mail](peter.lorenz@itwm.fraunhofer.de) | Is AutoAttack/AutoBench a suitable Benchmark for Adversarial Robustness? | | |
 | 30/06/2022 | Lars Nieradzik | Image Processing @Fraunhofer ITWM | [send mail](lars.nieradzik@itwm.fraunhofer.de) | _t.b.a._ | | |
-| 07/07/2022 | t.b.a. | | | | | |
+| 07/07/2022 | Avraam Chatzimichailidis | CC-HPC @Fraunhofer ITWM | [send mail](avraam.chatzimichailidis@itwm.fraunhofer.de ) | _Combating mode collapse in GAN training_ | | |
 | 14/07/2022 | t.b.a. | | | | | |
 | 21/07/2022 | t.b.a. | | | | | |
 | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** |
