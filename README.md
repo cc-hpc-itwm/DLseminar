@@ -32,26 +32,27 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 
 | **Date of Talk** | **Speaker**           | **Organization** | **Contact**      | **Title**        | **Abstract**     | **Comment**         |
 |:----------------:|:---------------------:|:----------------:|:----------------:|:----------------:|:----------------:|:-------------------:|
-| 28/04/2022       | Julia Grabinski       | CC-HPC @Fraunhofer ITWM |[send mail](julia.grabinski@uni-siegen.de) |_t.b.a._  |                  |                     |
-| 05/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 12/05/2022       | Mario Ruben Fernandez |  CC-HPC @Fraunhofer ITWM  |  [send mail](mario.ruben.fernandez@itwm.fraunhofer.de)  |                  |                  |                     |
-| 19/05/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| _26/05/2022_     | _NO SEMINAR_          | -/-              | -/-              | -/-              | -/-              | Ascension of Christ |
-| 02/06/2022       | Paul Gavrikov         | IMLA @Offenburg University | [send mail](paul.gavrikov@hs-offenburg.de) | _t.b.a._ | | |
-| 09/06/2022       | Paula Harder          | CC-HPC @Fraunhofer ITWM  | [send mail](paula.harder@itwm.fraunhofer.de) | _Physics Informed Learning of Aerosols_ | | |
-| 16/06/2022       | _NO SEMINAR_          | -/-              | -/-              | -/-              | -/-              | Corpus Christi      |
-| 23/06/2022       | Peter Lorenz          | CC-HPC @Fraunhofer ITWM | [send mail](peter.lorenz@itwm.fraunhofer.de) | Is AutoAttack/AutoBench a suitable Benchmark for Adversarial Robustness? |                  |                     |
-| 30/06/2022       | Lars Nieradzik        | Image Processing @Fraunhofer ITWM  |  [send mail](lars.nieradzik@itwm.fraunhofer.de)               |   _t.b.a._               |                  |                  |                     |
-| 07/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 14/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 21/07/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| **SUMMER BREAK** | **SUMMER BREAK**      | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK**    |
-| 06/10/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 13/10/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| 20/10/2022       | t.b.a.                |                  |                  |                  |                  |                     |
-| Fall 22          | t.b.a.                |                  |                  |                  |                  |                     |
-| Fall 22          | t.b.a.                |                  |                  |                  |                  |                     |
-| Fall 22          | t.b.a.                |                  |                  |                  |                  |                     |
+| 28/04/2022 | Julia Grabinski | CC-HPC @Fraunhofer ITWM | [send mail](julia.grabinski@uni-siegen.de) | _t.b.a._  | | |
+| 05/05/2022 | t.b.a. | | | | | |
+| 12/05/2022 | Mario Ruben Fernandez | CC-HPC @Fraunhofer ITWM | [send mail](mario.ruben.fernandez@itwm.fraunhofer.de) | | | |
+| 19/05/2022 | t.b.a. | | | | | |
+| _26/05/2022_ | _NO SEMINAR_ | -/- | -/- | -/- | -/- | Ascension of Christ |
+| 02/06/2022 | Paul Gavrikov | IMLA @Offenburg University | [send mail](paul.gavrikov@hs-offenburg.de) | _t.b.a._ | | |
+| 09/06/2022 | Paula Harder | CC-HPC @Fraunhofer ITWM | [send mail](paula.harder@itwm.fraunhofer.de) | _Physics Informed Learning of Aerosols_ | | |
+| 16/06/2022 | _NO SEMINAR_ | -/- | -/- | -/- | -/- | Corpus Christi |
+| 23/06/2022 | Peter Lorenz | CC-HPC @Fraunhofer ITWM | [send mail](peter.lorenz@itwm.fraunhofer.de) | Is AutoAttack/AutoBench a suitable Benchmark for Adversarial Robustness? | | |
+| 30/06/2022 | Lars Nieradzik | Image Processing @Fraunhofer ITWM | [send mail](lars.nieradzik@itwm.fraunhofer.de) | _t.b.a._ | | |
+| 07/07/2022 | t.b.a. | | | | | |
+| 14/07/2022 | t.b.a. | | | | | |
+| 21/07/2022 | t.b.a. | | | | | |
+| **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** |
+| 06/10/2022 | t.b.a. | | | | | |
+| 13/10/2022 | t.b.a. | | | | | |
+| 20/10/2022 | t.b.a. | | | | | |
+| Fall 2022 | t.b.a. | | | | | |
+| Fall 2022 | t.b.a. | | | | | |
+| Fall 2022 | t.b.a. | | | | | |
+
 ---
 
 <a href="https://www.itwm.fraunhofer.de/"><img src="images/logo-itwm.png" height="50"></a>&emsp;<a href="https://www.leistungszentrum-simulation-software.de/"><img src="images/logo-lssi.png" height="75"></a>
