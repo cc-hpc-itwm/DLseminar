@@ -49,7 +49,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 06/10/2022 | t.b.a. | | | | | |
 | 13/10/2022 | t.b.a. | | | | | |
 | 20/10/2022 | t.b.a. | | | | | |
-| Fall 2022 | Klaus Dorr | IMLA, Offenburg | |Deep Reinforcement Learning for Robot Soccer | | |
+| Fall 2022 | Klaus Dorer | IMLA, Offenburg | |Deep Reinforcement Learning for Robot Soccer | | |
 | Fall 2022 | t.b.a. | | | | | |
 | Fall 2022 | t.b.a. | | | | | |
 
