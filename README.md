@@ -48,7 +48,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** | **SUMMER BREAK** |
 | 06/10/2022 | t.b.a. | | | | | |
 | 13/10/2022 | t.b.a. | | | | | |
-| 20/10/2022 | t.b.a. | | | | | |
+| 20/10/2022 | Dayananda Herurkar |SDS-MADM DFKI |[send mail](dayananda.herurkar@dfki.de ) |_RECol: Reconstruction Error Columns for Outlier Detection_ | | |
 | Fall 2022 | Klaus Dorer | IMLA, Offenburg | |Deep Reinforcement Learning for Robot Soccer | | |
 | Fall 2022 | t.b.a. | | | | | |
 | Fall 2022 | t.b.a. | | | | | |
