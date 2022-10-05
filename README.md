@@ -47,7 +47,7 @@ Note that the talks of our employees of the division are marked with (_Fraunhofe
 | 19/01/2023 | t.b.a. | | | | | |
 | 26/01/2023 | t.b.a. | | | | | |
 | 02/02/2023 | t.b.a. | | | | | |
-| 09/02/2023 | t.b.a. | Klaus Dorer | IMLA, Offenburg |klaus.dorer@hs-offenburg.de |Deep Reinforcement Learning for Robot Soccer | |
+| 09/02/2023 | Klaus Dorer | IMLA, Offenburg |klaus.dorer@hs-offenburg.de |Deep Reinforcement Learning for Robot Soccer | | |
 | 16/02/2023 | t.b.a. | | | | | |
 | WINTER TERM 2022/23 | |  | | | | |
 | WINTER TERM 2022/23 | t.b.a. | | | | | |
